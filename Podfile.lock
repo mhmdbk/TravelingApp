@@ -1,0 +1,48 @@
+PODS:
+  - EVGPUImage2 (0.2.0)
+  - GPUImage (0.1.7)
+  - NFCPassportReader (1.0.12):
+    - OpenSSL-Universal/Framework
+  - OpenSSL-Universal/Framework (1.0.2.20)
+  - PassportScanner (4.7.0):
+    - EVGPUImage2
+    - GPUImage
+    - TesseractOCRSDKiOS
+    - UIImage-Resize
+  - TesseractOCRSDKiOS (4.0.2)
+  - UIImage-Resize (1.0.1)
+
+DEPENDENCIES:
+  - NFCPassportReader (from `https://github.com/AndyQ/NFCPassportReader.git`)
+  - PassportScanner
+
+SPEC REPOS:
+  trunk:
+    - EVGPUImage2
+    - GPUImage
+    - OpenSSL-Universal
+    - PassportScanner
+    - TesseractOCRSDKiOS
+    - UIImage-Resize
+
+EXTERNAL SOURCES:
+  NFCPassportReader:
+    :git: https://github.com/AndyQ/NFCPassportReader.git
+
+CHECKOUT OPTIONS:
+  NFCPassportReader:
+    :commit: 5bd8d915b0187b99d93821e3004b73d73aac1e98
+    :git: https://github.com/AndyQ/NFCPassportReader.git
+
+SPEC CHECKSUMS:
+  EVGPUImage2: 1e057f25fbab811b8a9e98d19f96bbd5eb434913
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  NFCPassportReader: ce28b737ac1419a5abcf379a9eea95b69b8d5e03
+  OpenSSL-Universal: ff34003318d5e1163e9529b08470708e389ffcdd
+  PassportScanner: 0d8a023517be95104a97d3da39454a72de1943db
+  TesseractOCRSDKiOS: 5124816fe04de75f4d7ce91eb8b2bb5096aa6519
+  UIImage-Resize: fa776860f10e6900bbaf53a73e494bdceaaccc77
+
+PODFILE CHECKSUM: 3c90fe15916d94b372bf326f3995a7a62d873025
+
+COCOAPODS: 1.9.3

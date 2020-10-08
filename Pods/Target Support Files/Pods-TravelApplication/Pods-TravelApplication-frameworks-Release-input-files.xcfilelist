@@ -1,0 +1,9 @@
+${PODS_ROOT}/Target Support Files/Pods-TravelApplication/Pods-TravelApplication-frameworks.sh
+${BUILT_PRODUCTS_DIR}/EVGPUImage2/EVGPUImage2.framework
+${BUILT_PRODUCTS_DIR}/GPUImage/GPUImage.framework
+${BUILT_PRODUCTS_DIR}/NFCPassportReader/NFCPassportReader.framework
+${PODS_ROOT}/OpenSSL-Universal/Frameworks/ios/OpenSSL.framework
+${PODS_ROOT}/OpenSSL-Universal/Frameworks/ios/OpenSSL.framework.dSYM
+${BUILT_PRODUCTS_DIR}/PassportScanner/PassportScanner.framework
+${BUILT_PRODUCTS_DIR}/TesseractOCRSDKiOS/TesseractOCRSDKiOS.framework
+${BUILT_PRODUCTS_DIR}/UIImage-Resize/UIImage_Resize.framework
